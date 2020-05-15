@@ -9,6 +9,8 @@ cd Invis
 ```
 python Invis.py --config config.json
 ```
+pip install -r requirements.txt
+```
 Output
 ```
 $ docker run -it noisy --config config.json --log debug
